@@ -23,11 +23,10 @@ img {
 }
 #background {
 	float: left;
-	border-radius: 90px ;
 	width: 156px;
-    height: 156px;
-    margin-left: 230px;
-    margin-top: 90px;
+    	height: 156px;
+    	margin-left: 230px;
+    	margin-top: 90px;
 }
 /*#backgound img{
 	box-shadow: 10px #888888;
